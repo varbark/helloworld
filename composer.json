@@ -1,0 +1,16 @@
+{
+    "name": "totolai/helloworld",
+    "authors": [
+        {
+            "name": "varbark",
+            "email": "naoki3355@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Totolai\\HelloWorld\\": "src/"
+        }
+    }
+
+}
